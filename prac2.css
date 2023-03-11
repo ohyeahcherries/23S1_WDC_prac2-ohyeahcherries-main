@@ -34,6 +34,9 @@ body {
 }
 #content {
     background-color: white;
+    border-style: solid;
+    border-color: darkgrey;
+    border-radius: 8px;
 }
 .blue {
     color: blue;
