@@ -48,4 +48,7 @@ body {
 hr {
     border-color: #CFDFE4;
 }
-.
+.red-outline {
+    outline: ;
+    outline-color: red;
+}
