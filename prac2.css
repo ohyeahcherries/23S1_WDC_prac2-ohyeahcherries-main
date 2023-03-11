@@ -28,3 +28,6 @@ h3 {
 .transparent-text {
     color: rgba(0, 0, 0, 0.5);
 }
+body {
+    background-color: #DCF5F5;
+}
