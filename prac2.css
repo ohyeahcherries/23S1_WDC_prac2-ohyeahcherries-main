@@ -60,3 +60,14 @@ hr {
     border-style: solid;
     border-color: blue;
 }
+.div-red-border {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-color: red;
+}
+.div-blue-border {
+    
+}
