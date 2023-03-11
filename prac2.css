@@ -30,6 +30,7 @@ h3 {
 }
 body {
     background-image: url("cross.png");
-    background-color: #DCF5F5;
+    background-repeat: repeat;
+    background-color: #000;
 
 }
