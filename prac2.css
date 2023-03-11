@@ -41,3 +41,11 @@ body {
 .fancy {
     font-family: cursive;
 }
+.red-border {
+    border-style: solid;
+    border-color: red;
+}
+hr {
+    border-color: #CFDFE4;
+}
+.
