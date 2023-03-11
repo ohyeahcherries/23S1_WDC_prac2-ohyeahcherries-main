@@ -56,3 +56,7 @@ hr {
     outline-style: solid;
     outline-color: red;
 }
+.blue-border {
+    border-style: solid;
+    border-color: blue;
+}
