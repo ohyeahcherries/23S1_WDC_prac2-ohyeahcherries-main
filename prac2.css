@@ -69,5 +69,8 @@ hr {
     border-color: red;
 }
 .div-blue-border {
-    
+    border-style: solid;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-color: blue;
 }
