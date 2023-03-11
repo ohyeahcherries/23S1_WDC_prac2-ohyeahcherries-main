@@ -49,6 +49,6 @@ hr {
     border-color: #CFDFE4;
 }
 .red-outline {
-    outline: ;
+    outline-style: solid;
     outline-color: red;
 }
