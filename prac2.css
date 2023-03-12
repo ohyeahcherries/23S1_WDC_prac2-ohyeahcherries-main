@@ -94,6 +94,7 @@ hr {
     padding: 12px;
     height: 400px;
     width: 400px;
+    box-sizing: border-box;
     border-style: solid;
     border-color: red;
     text-align: right;
