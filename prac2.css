@@ -1,9 +1,7 @@
 h1 {
     font-family: "Raleway",sans-serif;
 }
-p {
-    font-family: "Noto Serif",serif;
-}
+
 a {
     color: darkgreen;
 }
@@ -31,6 +29,7 @@ h3 {
 body {
     background-image: url("cross.png");
     background-color: #DCF5F5;
+    font-family: "Noto Serif", serif;
 }
 #content {
     background-color: white;
