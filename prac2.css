@@ -74,12 +74,14 @@ hr {
     border-bottom-right-radius: 8px;
     border-color: blue;
 }
-.innerdiv {
+#innerdiv1 {
     margin-left: 20px;
     margin-right: 20px;
     margin-top: 10;
     padding: 12px;
     height: 180px;
     width: 660px;
-
+}
+#innerdiv2 {
+    
 }
