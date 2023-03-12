@@ -155,11 +155,7 @@ blockquote {
 }
 table {
     width: 500px;
-    border-bottom-color: darkgrey;
-    border-bottom: 1px solid;
-    border-top: none;
-    border-left: none;
-    border-right: none;
+    border-collapse: collapse;
 }
 td {
     border-bottom-color: darkgrey;
