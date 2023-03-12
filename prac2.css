@@ -75,6 +75,7 @@ hr {
     border-color: blue;
 }
 #innerdiv1 {
+    background-color: yellow;
     margin-left: 20px;
     margin-right: 20px;
     margin-top: 10;
@@ -83,5 +84,6 @@ hr {
     width: 660px;
 }
 #innerdiv2 {
+    background-color: yellow;
     
 }
