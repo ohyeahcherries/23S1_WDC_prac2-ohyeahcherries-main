@@ -81,8 +81,9 @@ hr {
     margin-top: 10px;
     margin-bottom: 10px;
     padding: 12px;
-    height: 176px;
-    width: 676px;
+    height: 200px;
+    width: 700px;
+    box-sizing: border-box;
     border-style: solid;
     border-color: red;
     text-align: right;
@@ -91,8 +92,8 @@ hr {
     background-color: yellow;
     margin: auto;
     padding: 12px;
-    height: 376px;
-    width: 376px;
+    height: 400px;
+    width: 400px;
     border-style: solid;
     border-color: red;
     text-align: right;
