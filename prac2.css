@@ -155,15 +155,25 @@ blockquote {
 }
 table {
     width: 500px;
+    border-bottom-color: darkgrey;
+    border-bottom: 1px solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+td {
+    border-bottom-color: darkgrey;
+    border-bottom: 1px solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
 }
 .fancytable {
-    border-bottom: darkgrey;
     background-color: white;
     color: black;
-
 }
 #fancytable2 {
-    border-bottom: darkgrey;
+
     background-color: #f8f8f8;
     color: black;
 }
