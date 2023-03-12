@@ -82,8 +82,30 @@ hr {
     padding: 12px;
     height: 180px;
     width: 660px;
+    border-style: solid;
+    border-color: red;
+    text-align: right;
 }
 #innerdiv2 {
     background-color: yellow;
-    
+    margin: auto;
+    padding: 12px;
+    height: 400px;
+    width: 400px;
+    border-style: solid;
+    border-color: red;
+    text-align: right;
+}
+#outerdiv1 {
+    margin: 0;
+    padding: 0;
+    background-color: blue;
+    border-style: solid;
+    border-color: red;
+}
+#outerdiv2 {
+    background-color: blue;
+    margin-top: 20px;
+    border-style: solid;
+    border-color: red;
 }
