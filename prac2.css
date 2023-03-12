@@ -141,9 +141,6 @@ blockquote {
     overflow: hidden;
     background-color: darkgrey;
 }
-.lifloat {
-
-}
 .navli {
     display: block;
     color: white;
@@ -154,4 +151,5 @@ blockquote {
 }
 .navli:hover {
     background-color: lightgray;
+    color: darkgrey;
 }
