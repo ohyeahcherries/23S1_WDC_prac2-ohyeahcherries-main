@@ -186,3 +186,7 @@ th {
     border-left: 1px;
     border-top: 1px;
 }
+.complextabletr {
+    border: 1px;
+    border-color: black;
+}
