@@ -163,5 +163,7 @@ table {
 
 }
 #fancytablehead {
-    w
+    text-align: left;
+    color: white;
+    background-color: darkslategrey;
 }
