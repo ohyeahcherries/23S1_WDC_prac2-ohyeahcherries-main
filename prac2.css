@@ -125,13 +125,13 @@ blockquote {
     line-height: 1.5;
     word-spacing: 0.2em;
 }
-#numberlist {
+.numberlist {
     list-style-type: decimal;
 }
-#romanlist {
+.romanlist {
     list-style-type: lower-roman;
 }
-#squarebullet {
+.squarebullet {
     list-style-type: square;
 }
 #navbar {
