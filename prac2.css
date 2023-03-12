@@ -125,3 +125,12 @@ blockquote {
     line-height: 1.5;
     word-spacing: 0.2em;
 }
+#numberlist {
+    list-style-type: decimal;
+}
+#romanlist {
+    list-style-type: lower-roman;
+}
+#squarebullet {
+    list-style-type: square;
+}
