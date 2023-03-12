@@ -142,7 +142,7 @@ blockquote {
     background-color: darkgrey;
 }
 .lifloat {
-    float: left;
+
 }
 .navli {
     display: block;
@@ -150,6 +150,7 @@ blockquote {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    float: left;
 }
 .navli:hover {
     background-color: lightgray;
