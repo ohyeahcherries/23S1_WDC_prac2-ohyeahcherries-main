@@ -2,7 +2,7 @@ h1 {
     font-family: "Raleway",sans-serif;
 }
 p {
-    font-family: serif;
+    font-family: "Noto Serif",serif;
 }
 a {
     color: darkgreen;
@@ -15,7 +15,7 @@ mark {
     background-color: pink;
 }
 h2 {
-    font-family: sans-serif;
+    font-family: "Raleway",sans-serif;
     text-align: left;
 }
 pre {
@@ -111,4 +111,16 @@ hr {
     margin-top: 20px;
     border-style: solid;
     border-color: red;
+}
+h4 {
+    font-family: "Raleway",serif;
+    font-weight: normal;
+
+}
+q {
+    text-align: justify;
+    font-family: "Raleway",serif;
+    color: dimgray;
+    line-height: 1.5;
+    word-spacing: 0.2em;
 }
