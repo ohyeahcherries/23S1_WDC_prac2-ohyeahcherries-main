@@ -115,6 +115,8 @@ hr {
 h4 {
     font-family: "Raleway",serif;
     font-weight: normal;
+    text-decoration: underline;
+    font-style: italic;
 
 }
 q {
