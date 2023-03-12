@@ -156,16 +156,23 @@ blockquote {
 table {
     width: 500px;
 }
-#fancytable {
+.fancytable {
     border-bottom: darkgrey;
     background-color: white;
     color: black;
     border: none;
 
 }
+#fancytable2 {
+    border-bottom: darkgrey;
+    background-color: #f8f8f8;
+    color: black;
+    border: none;
+}
 #fancytablehead {
     text-align: left;
     color: white;
     background-color: darkslategrey;
-    bo
+    border: none;
+    border-bottom: darkgrey;
 }
