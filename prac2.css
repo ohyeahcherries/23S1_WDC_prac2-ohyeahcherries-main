@@ -74,3 +74,8 @@ hr {
     border-bottom-right-radius: 8px;
     border-color: blue;
 }
+.innerdiv {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10;
+}
