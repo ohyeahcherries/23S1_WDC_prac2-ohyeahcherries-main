@@ -179,3 +179,8 @@ td {
     background-color: darkslategrey;
     border-bottom: darkgrey;
 }
+th {
+    background-color: palegoldenrod;
+    text-align: left;
+    
+}
