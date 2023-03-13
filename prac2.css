@@ -205,16 +205,18 @@ th {
     margin: 10px auto;
     width: 600px;
 }
-#leftfloat {
+#maindiv {
+    margin: auto;
+    width: 600px;
+}
+
+#leftdiv {
     background-color: white;
     border-style: solid;
     border-width: 1px;
     border-color: darkgrey;
     border-radius: 8px;
     margin: 10px auto;
-    height: 400px;
-    overflow: auto;
-    max-width: 600px;
-    display: inline-block;
-    width: 200px;
+    width: 600px;
+    float: left;
 }
