@@ -202,6 +202,7 @@ th {
     border-width: 1px;
     border-color: darkgrey;
     border-radius: 8px;
+    margin: 10px;
 }
 #leftfloat {
     background-color: white;
@@ -210,4 +211,6 @@ th {
     border-color: darkgrey;
     border-radius: 8px;
     float: left;
+    margin: 10px;
+    height: 400px;
 }
