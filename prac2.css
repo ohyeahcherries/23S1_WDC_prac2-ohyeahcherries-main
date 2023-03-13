@@ -217,6 +217,8 @@ th {
     border-radius: 8px;
     margin: 10px auto;
     float: left;
+    width: 200px;
+    overflow: auto;
 }
 #rightdiv {
     background-color: white;
@@ -226,4 +228,5 @@ th {
     border-radius: 8px;
     margin-top: 10px;
     float: right;
+    width: 385px;
 }
