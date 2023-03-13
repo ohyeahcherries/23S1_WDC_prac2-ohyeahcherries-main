@@ -219,6 +219,8 @@ th {
     float: left;
     width: 200px;
     overflow: auto;
+    height: 400px;
+    padding: 10px;
 }
 #rightdiv {
     background-color: white;
@@ -230,6 +232,7 @@ th {
     float: right;
     width: 385px;
     overflow: hidden;
+    height: 400px;
 }
 #redbox {
     border-style: solid;
