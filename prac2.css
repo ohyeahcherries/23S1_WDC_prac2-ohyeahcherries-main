@@ -239,9 +239,8 @@ th {
     box-sizing: border-box;
 }
 #redbox {
-    position: static;
-    top: 100px;
-    left: 100px;
+    position: relative;
+
     border-style: solid;
     border-color: red;
     width: 1000px;
