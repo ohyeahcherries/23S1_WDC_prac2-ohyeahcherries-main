@@ -205,7 +205,7 @@ th {
     width: 600px;
 }
 #maindiv {
-    margin: 0px auto;
+    margin: 5px auto;
     width: 600px;
 }
 
@@ -215,7 +215,7 @@ th {
     border-width: 1px;
     border-color: darkgrey;
     border-radius: 8px;
-    margin: 10px auto;
+    margin: 5px auto;
     float: left;
     width: 180px;
     overflow: auto;
@@ -230,7 +230,7 @@ th {
     border-width: 1px;
     border-color: darkgrey;
     border-radius: 8px;
-    margin-top: 10px;
+    margin: 5px auto;
     float: right;
     width: 410px;
     overflow: hidden;
