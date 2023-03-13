@@ -217,11 +217,12 @@ th {
     border-radius: 8px;
     margin: 10px auto;
     float: left;
-    width: 150px;
+    width: 180px;
     overflow: auto;
     height: 400px;
     padding: 10px;
-    
+    box-sizing: border-box;
+
 }
 #rightdiv {
     background-color: white;
@@ -231,10 +232,11 @@ th {
     border-radius: 8px;
     margin-top: 10px;
     float: right;
-    width: 420px;
+    width: 410px;
     overflow: hidden;
     height: 400px;
     padding: 10px;
+    box-sizing: border-box;
 }
 #redbox {
     border-style: solid;
