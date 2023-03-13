@@ -203,3 +203,6 @@ th {
     border-color: darkgrey;
     border-radius: 8px;
 }
+#leftfloat {
+    float: left;
+}
