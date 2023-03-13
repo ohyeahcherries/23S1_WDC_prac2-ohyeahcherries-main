@@ -202,11 +202,10 @@ th {
     border-width: 1px;
     border-color: darkgrey;
     border-radius: 8px;
-    margin: 10px auto;
     width: 600px;
 }
 #maindiv {
-    margin: auto;
+    margin: 0px auto;
     width: 600px;
 }
 
@@ -218,4 +217,13 @@ th {
     border-radius: 8px;
     margin: 10px auto;
     float: left;
+}
+#rightdiv {
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: darkgrey;
+    border-radius: 8px;
+    margin-top: 10px;
+    float: right;
 }
