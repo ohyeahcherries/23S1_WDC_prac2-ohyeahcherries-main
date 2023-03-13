@@ -215,6 +215,6 @@ th {
     height: 400px;
     overflow: auto;
     max-width: 600px;
-    float: left;
+    display: inline-block;
     width: 200px;
 }
