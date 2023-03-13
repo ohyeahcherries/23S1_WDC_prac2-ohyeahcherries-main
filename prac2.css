@@ -212,6 +212,7 @@ th {
     border-color: darkgrey;
     border-radius: 8px;
     float: left;
+    display: inline-block
     margin: 10px auto;
     height: 400px;
 }
