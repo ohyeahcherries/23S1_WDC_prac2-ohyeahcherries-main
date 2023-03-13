@@ -214,4 +214,7 @@ th {
     margin: 10px auto;
     height: 400px;
     overflow: auto;
+    max-width: 600px;
+    float: left;
+    width: 200px;
 }
